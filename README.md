@@ -1,2 +1,2 @@
-# 30-days-C
-Learning C language
+# 30-days C++
+Learning C++ language
